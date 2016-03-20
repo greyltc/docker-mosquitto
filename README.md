@@ -12,6 +12,6 @@ http://localhost/
 and you should see your mosquitto server.
 1. **[Optional] Stop the mosquitto docker server instance**  
 `docker stop mosquitto`
-1. **[Optional] Delete the node-red docker server instance (after stopping it)**  
+1. **[Optional] Delete the mosquitto docker server instance (after stopping it)**  
 `docker rm mosquitto`
 1. **Profit.**
